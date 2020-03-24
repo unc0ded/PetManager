@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976299260480",
+    "firebase_url": "https://pet-manager-11837.firebaseio.com",
+    "project_id": "pet-manager-11837",
+    "storage_bucket": "pet-manager-11837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976299260480:android:47388bfa8d60b3a017fda5",
+        "android_client_info": {
+          "package_name": "com.unc0ded.petmanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976299260480-h4evsevm041il84l5g0jbucml3b6f82j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLIwRSjJZUoMroi1eE_HYYcADJFhiKqQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976299260480-h4evsevm041il84l5g0jbucml3b6f82j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
